@@ -1,4 +1,4 @@
- #HOME
+ !HOME
 home__social
 https://www.linkedin.com/
 https://dribbble.com/
@@ -18,7 +18,7 @@ Completed <br> project
 Companies <br> worked
 
 
-* SERVICES
+  SERVICES
 services__modal-service
 I develop the user interface.
 Web page development.
@@ -48,4 +48,4 @@ https://www.instagram.com/
 https://twitter.com/
 
 
- 
+  
